@@ -1,6 +1,6 @@
 # Eva Song
 
-Java backend engineer focused on distributed systems, event-driven platforms, search infrastructure, and AI agent workflows.
+Backend engineer focused on distributed systems, event-driven platforms, search infrastructure, and AI agent workflows.
 
 I recently graduated from UC Berkeley with a B.A. in Computer Science and am pursuing an MCS at UIUC. My recent work spans Spring Boot backend services, Kafka/Flink pipelines, Elasticsearch search systems, Cassandra-backed inventory workflows, and AI-assisted operational tooling.
 
